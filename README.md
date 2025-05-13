@@ -1,5 +1,5 @@
 # customer_behavior
-ustomer Behavior Segmentation using K-Means Clustering
+Customer Behavior Segmentation using K-Means Clustering
 🛍️ Customer Behavior Segmentation using K-Means Clustering
 This project analyzes customer behavior data to segment users based on their purchasing patterns. Using unsupervised machine learning techniques like K-Means Clustering and PCA, the goal is to identify distinct customer groups to support targeted marketing strategies.
 
